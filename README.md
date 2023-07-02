@@ -8,5 +8,6 @@ The program is based on the following assumptions/simplifications:
   -  MasterCard numbers start with 51, 52, 53, 54, or 55
   -  Visa numbers start with 4.
   -  Checksum is performed with Luhn’s Algorithm
+See https://developer.paypal.com/tools/sandbox/card-testing/ to try some credit card numbers.
 
 This program has been implemented in both the C programming language as in Python.
